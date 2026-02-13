@@ -112,7 +112,14 @@ SET Orders.orderTotal =
 )
 WHERE Orders.orderID = :newOrderID_from_previous_step;
 
+-- Citation for use of AI Tools:
+--    # Date: 02/12/26
+--      # Prompts used to assist with coding SQL for 'New Order Page'
+--     # "Based on the following specification of the desired SQL page, how could I write DML sql code similar to previous pages? walk through the solution step by step"
+--     # AI Source URL: https://chatgpt.com/
+    
 
+Links to an external site. 
 
 
 --6. Products Page
